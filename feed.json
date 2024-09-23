@@ -1,0 +1,123 @@
+{
+  "title": "An App About Apps - Italiano",
+  "subtitle": "Una raccolta di lezioni su Swift",
+  "publisherName": "Comune di Vallensbæk e ATEA Danimarca",
+  "feedIdentifier": "com.github.appsbyralo",
+  "contactURL": "mailto:ralotoft@gmail.com",
+  "formatVersion": "1.0",
+  "documents": [
+    {
+      "title": "An App About Apps",
+      "overviewSubtitle": "Tutto ciò di cui hai bisogno per iniziare a creare applicazioni",
+      "detailSubtitle": "",
+      "description": "Scarica l'app del progetto educativo dove puoi accedere a tutto il materiale, le descrizioni, le attività, il portfolio e i documenti.",
+      "contentIdentifier": "com.github.appsbyralo.AAAAIT",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsIT/AAAAIT.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Italiano"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "1. Barra di navigazione",
+      "overviewSubtitle": "Tutto ciò di cui hai bisogno per iniziare a creare applicazioni",
+      "detailSubtitle": "Impara a creare una barra di navigazione",
+      "description": "In questa applicazione di Swift, imparerai tramite esercizi, codice e spiegazioni come creare la tua barra di navigazione (menu) nella tua app. Imparerai a costruire diversi numeri di pulsanti, pagine e contenuti multimediali nella tua app.",
+      "contentIdentifier": "com.github.appsbyralo.NavigationIT",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsIT/NavigationIT.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Italiano"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "2. Stacks",
+      "overviewSubtitle": "Tutto ciò di cui hai bisogno per iniziare a creare applicazioni",
+      "detailSubtitle": "Qui lavoriamo con gli stack",
+      "description": "Nell'applicazione Stacks, imparerai a posizionare diversi tipi di oggetti in Vstacks, Hstacks e Zstacks. Con questa app, imparerai a gestire il design della tua applicazione per progettare al meglio il layout desiderato.",
+      "contentIdentifier": "com.github.appsbyralo.StacksIT",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsIT/StacksIT.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Italiano"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/Stacks/preview.png",
+        "https://appsbyralo.github.io/Stacks/preview2.png",
+        "https://appsbyralo.github.io/Stacks/preview3.png",
+        "https://appsbyralo.github.io/Stacks/preview4.png"
+      ]
+    },
+    {
+      "title": "3. Contenuto",
+      "overviewSubtitle": "Un luogo unico per iniziare a creare le tue applicazioni",
+      "detailSubtitle": "Impara ad aggiungere contenuto alla tua applicazione",
+      "description": "Con questa risorsa, imparerai a inserire le tue foto, video e collegamenti nella tua applicazione per renderla più visiva e attraente.",
+      "contentIdentifier": "com.github.appsbyralo.ContentIT",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsIT/ContentIT.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Italiano"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "4. Cose per iniziare",
+      "overviewSubtitle": "Un luogo unico per iniziare a creare le tue applicazioni",
+      "detailSubtitle": "Alcune cose per iniziare rapidamente",
+      "description": "Con questa app, imparerai alcune delle cose interessanti da sapere quando crei app, come creare diversi tipi di pulsanti, pulsanti a scorrimento, mappe GPS, e molto altro.",
+      "contentIdentifier": "com.github.appsbyralo.ThingsIT",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsIT/ThingsIT.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Italiano"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    }
+  ]
+}
